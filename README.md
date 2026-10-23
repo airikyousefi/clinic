@@ -1,26 +1,29 @@
-# clinic
+# clinic 🏥
 
-<div align="center"><img src="https://media.licdn.com/dms/image/v2/D4D16AQFlE-unQT0C6Q/profile-displaybackgroundimage-shrink_350_1400/B4DZkd.8QUJIAY-/0/1757144681933?e=1794441600&v=beta&t=7GA9_ZTJtLtfKZy2BPJLHKaHdRQz6PdpAaak1UHmyUA" alt="Airik Yousefi banner" width="100%" /></div>
+> Responsive clinic web project — a modern healthcare web experience, designed & developed by **Airik Yousefi**.
 
-A responsive web project developed and maintained by **Airik Yousefi**.
+![Status](https://img.shields.io/badge/Status-In_Development-f4c452?style=flat-square) ![Focus](https://img.shields.io/badge/Focus-Responsive_%26_UI%2FUX-ff5c6c?style=flat-square) ![SEO](https://img.shields.io/badge/SEO-Friendly-62dc87?style=flat-square)
+
+## About
+
+**clinic** is a healthcare web project focused on delivering a clean, trustworthy and fast digital experience for patients and clinics. The project explores how a medical brand can look modern while staying extremely easy to use — from the first visit to booking intent.
+
+The source code is being organized and will be published here. Meanwhile, you can see live production work at my [portfolio](https://airikyousefi.ir/portfolio/).
 
 ## Highlights
 
-- Clear and responsive website structure
-- Modern interface focused on usability
-- Reusable front-end patterns and clean presentation
-- Suitable foundation for a professional clinic web experience
+- **Mobile-first responsive layout** — works beautifully on every screen size
+- **Clean, trust-building UI/UX** — designed around real patient journeys
+- **SEO-friendly markup** — semantic HTML, fast loading, Google-ready structure
+- **Performance-focused** — optimized assets and Core Web Vitals in mind
 
-## Technologies
+## Developer
 
-ASP.NET · C# · HTML · CSS · JavaScript · Responsive UI
+Built by [Airik Yousefi](https://github.com/airikyousefi) — Web Designer & Developer (WordPress, ASP.NET, C#, SEO).
 
-## Links
+- 🌐 Website: [airikyousefi.ir](https://airikyousefi.ir/)
+- 💼 Portfolio: [airikyousefi.ir/portfolio](https://airikyousefi.ir/portfolio/)
 
-- 🌐 [Website](https://airikyousefi.ir/)
-- 🧩 [Portfolio](https://airikyousefi.ir/portfolio/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/airik-yousefi-4719b9381/)
+---
 
-## Author
-
-**Airik Yousefi** — Web Designer & Developer
+If you like this project, consider **following me** on GitHub — more real-world web projects are on the way.
